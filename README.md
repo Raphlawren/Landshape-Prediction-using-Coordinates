@@ -14,3 +14,8 @@ Then i used the preprocessing toolbox to convert "points to path"\
 
 I then converted the lines to polygon by clicking Vector > Geometry Tools > Lines to Polygons\
 ![Screenshot 2025-03-03 at 12 59 05 AM](https://github.com/user-attachments/assets/7b3a7fa0-f7e9-4c00-a549-2034ace4f545)
+
+The issue i think i have is: The predicted shape/coordinate is smaller. i think when the model are being trained, it reduced the values for better training which affected the result. 
+![Screenshot 2025-03-03 at 1 01 04 AM](https://github.com/user-attachments/assets/b1081fef-9c06-4e55-9429-6ccad6729a8e)
+
+
